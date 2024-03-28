@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-src = "rtsp://visual:visualrav1@10.60.86.95:554/cam/realmonitor?channel=1&subtype=0"
+src = ""
 
 video = cv2.VideoCapture(src)
 
